@@ -1,0 +1,1 @@
+# General Dependencies\n\nGeneral system dependencies for the TPR project are:\n\n- CMake\n- Python 3.8+\n- GNU Make\n- Git\n- GCC/G++\n- Geekcodex CLI\n\nEnsure these dependencies are installed and up-to-date before compiling the project.

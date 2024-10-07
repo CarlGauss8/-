@@ -1,0 +1,1 @@
+# CodeGeeX Dependencies\n\nThe CodeGeeX dependencies for the TPR project are:\n\n- CodeGeeX Model\n- CodeGeeX Utilities\n- ROCm support for CodeGeeX\n\nMake sure to configure CodeGeeX with ROCm and TensorFlow for optimal integration.
